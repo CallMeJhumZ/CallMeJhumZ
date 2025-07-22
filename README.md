@@ -18,7 +18,7 @@ I'm a passionate and detail-oriented software developer from Bulacan, Philippine
 
 ## 🧠 About Me
 
-> *"Code is not just about syntax, it's about solving real-world problems."*
+> *"Train your mind, The body will follow."*
 
 I thrive on turning complex problems into simple, elegant solutions. With a background in both frontend and backend development, I aim to create scalable, clean, and user-friendly applications. I enjoy working in agile teams and have a keen eye for UI/UX design.
 
