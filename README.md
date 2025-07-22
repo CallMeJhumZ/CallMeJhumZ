@@ -80,7 +80,7 @@ Bachelor of Science in Computer Science
 ## 🏆 Highlights
 
 - ✅  Developed real-world government systems as a junior programmer
-- ✅  Freelancer with 15+ full systems delivered to students and SMEs
+- ✅  Freelancer with 15+ full systems delivered to students
 - ✅  Agile team player with a strong eye for frontend design
 - ✅  Quick to adapt to new tools, tech stacks, and project requirements
 
