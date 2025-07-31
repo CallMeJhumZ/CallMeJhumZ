@@ -12,7 +12,8 @@ I'm a passionate and detail-oriented software developer from Bulacan, Philippine
 - 📧 **Email**: [jhumellbrao18@gmail.com](mailto:jhumellbrao18@gmail.com)  
 - 📍 **Address**: Bunsuran II, Pandi, Bulacan  
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/jhumell-brao-7b7aa4260/
-- 🌐 **Portfolio**: https://www.jhumellbrao.site
+- 👨‍💻 **Website**: https://www.jhumellbrao.site
+- 🌐 **Portfolio**: https://www.portfolio.jhumellbrao.site
 
 ---
 
