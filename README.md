@@ -42,6 +42,8 @@ I thrive on turning complex problems into simple, elegant solutions. With a back
 ### Tools & Methodologies
 `Git` `Agile / Scrum` `Firebase` `VS Code` `Postman`
 
+### Ai Automation Tools
+`n8n` `Zapier` `GoHighLevel` `Make`
 ---
 
 ## 💼 Work Experience
