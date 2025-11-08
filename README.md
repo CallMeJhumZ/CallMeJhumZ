@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jhumell Brao
 
-🎓 **BS in Computer Science** | 💻 **Junior Programmer** | 🌐 **Full Stack Developer** | 💻 **Software Engineer**
+🎓 **BS in Computer Science** | 💻 **Junior Programmer** | 🌐 **Full Stack Developer** | 💻 **Software Engineer** | 💻 **Back-End Developer**
 
 I'm a passionate and detail-oriented software developer from Bulacan, Philippines. With strong academic training and real-world experience in both freelance and corporate settings, I specialize in building responsive, user-focused web and mobile applications.
 
@@ -34,13 +34,13 @@ I thrive on turning complex problems into simple, elegant solutions. With a back
 `React` `Next.js` `Tailwind CSS` `SASS` `Bootstrap` `Flutter`
 
 ### Backend & Frameworks
-`Node.js` `Express` `ASP.NET Core` `REST APIs`
+`Node.js` `Express` `ASP.NET Core, Webapi` `REST APIs`
 
 ### Database
-`MySQL` `MongoDB` `Oracle`
+`MySQL` `MongoDB` `Oracle` `MsSql`
 
 ### Tools & Methodologies
-`Git` `Agile / Scrum` `Firebase` `VS Code` `Postman`
+`Git` `Agile / Scrum` `Firebase` `VS Code` `Postman` `Azure DevOps`
 
 ### Ai Automation Tools
 `n8n` `Zapier` `GoHighLevel` `Make`
@@ -49,8 +49,14 @@ I thrive on turning complex problems into simple, elegant solutions. With a back
 
 ## 💼 Work Experience
 
+### 👨‍💻 Back End Developer — **RBS Software Solutions**  
+*Sept 2025 – Present*  
+- Developed and integrate robust API's using .NET Web Api , following clean architecture, SOLID principles, and object-oriented programming (OOP) best practices.
+- Utilized advance LINQ  queries and lambda expressions to streamline data processing and improve performance.
+- Collaborated using tools like Postman for API testing, Azure DevOps for project tracking, and GIT for version control and collaborative development.
+
 ### 👨‍💻 Junior Programmer — **DBL ISTS Inc.**  
-*Jan 2024 – May 2025*  
+*Jan 2024 – July 2025*  
 - Developed a complete **Barangay Information System** using Node.js, MySQL, Tailwind CSS  
 - Built **mobile apps** using React Native and Oracle DB for local services  
 - Created a web-based **parking management system** using ASP.NET Core  
@@ -93,7 +99,7 @@ Bachelor of Science in Computer Science
 
 ## 🔍 I'm currently open to
 
-- 👨‍💻 Full-Time or Freelance Developer Roles  
+- 👨‍💻 Sideline or Freelance Developer Roles  
 - 🌱 Collaborations on Open Source or Community Projects  
 - 🧑‍🎓 Mentorship or Learning Opportunities in Advanced Backend / AI  
 
